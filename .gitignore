@@ -1,0 +1,17 @@
+# Ignore environment variable files
+openaiAPIkey.env
+.env
+.env.local
+.env.*.local
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+
+# Other OS files
+.DS_Store
+Thumbs.db
